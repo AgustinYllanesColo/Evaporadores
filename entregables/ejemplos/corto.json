@@ -1,0 +1,4 @@
+{"numero":129,"fecha":"28/09/2026","cliente":{"nombre":"Marcelo Gómez","localidad":"Lanús","provincia":"Buenos Aires"},
+"items":[{"descripcion":"Heladera vertical de 5 puertas","modelo":"Exhibidora","cantidad":4,"precio_unitario":5000000},
+{"descripcion":"Unidad condensadora sin compresor","modelo":"1 HP","cantidad":1,"precio_unitario":1850000,"incluye":["Condensador con forzador","Presostato de alta y baja","Armado y conexión con el compresor del cliente"]}],
+"iva":21,"cotizacion_usd":1535,"condicion_pago":"100% contado","observaciones":"El compresor lo provee el cliente."}
